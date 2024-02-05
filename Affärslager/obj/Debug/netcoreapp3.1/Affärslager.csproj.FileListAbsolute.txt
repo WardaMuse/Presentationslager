@@ -1,0 +1,31 @@
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.deps.json
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Datalager.dll
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Datalager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.AssemblyReference.cache
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.AssemblyInfo.cs
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.CopyComplete
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.sourcelink.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.deps.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Affärslager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Datalager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Datalager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.AssemblyReference.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.AssemblyInfoInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.AssemblyInfo.cs
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.csproj.CopyComplete
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Affärslager\obj\Debug\netcoreapp3.1\Affärslager.pdb
