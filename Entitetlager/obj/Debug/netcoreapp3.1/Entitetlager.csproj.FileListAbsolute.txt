@@ -1,0 +1,20 @@
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.deps.json
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.AssemblyInfo.cs
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.csproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.sourcelink.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.deps.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.csproj.AssemblyReference.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.AssemblyInfoInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.AssemblyInfo.cs
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Entitetlager\obj\Debug\netcoreapp3.1\Entitetlager.pdb
