@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Presentationslager/1.0.0": {
+        "dependencies": {
+          "Affärslager": "1.0.0"
+        },
+        "runtime": {
+          "Presentationslager.dll": {}
+        }
+      },
+      "Affärslager/1.0.0": {
+        "dependencies": {
+          "Datalager": "1.0.0"
+        },
+        "runtime": {
+          "Affärslager.dll": {}
+        }
+      },
+      "Datalager/1.0.0": {
+        "dependencies": {
+          "Entitetlager": "1.0.0"
+        },
+        "runtime": {
+          "Datalager.dll": {}
+        }
+      },
+      "Entitetlager/1.0.0": {
+        "runtime": {
+          "Entitetlager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presentationslager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Affärslager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Datalager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entitetlager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

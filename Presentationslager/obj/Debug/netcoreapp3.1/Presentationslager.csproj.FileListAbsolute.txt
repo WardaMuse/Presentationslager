@@ -1,0 +1,43 @@
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.AssemblyReference.cache
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.AssemblyInfoInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.AssemblyInfo.cs
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.exe
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.deps.json
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.runtimeconfig.json
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.runtimeconfig.dev.json
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.dll
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Datalager.dll
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Affärslager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Datalager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.CopyComplete
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.dll
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.pdb
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.genruntimeconfig.cache
+C:\Users\Samar\source\repos\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.sourcelink.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.exe
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.deps.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.runtimeconfig.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.runtimeconfig.dev.json
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Presentationslager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Affärslager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Datalager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Entitetlager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Affärslager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Datalager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\bin\Debug\netcoreapp3.1\Entitetlager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.AssemblyReference.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.AssemblyInfoInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.AssemblyInfo.cs
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.csproj.CopyComplete
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.dll
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.pdb
+C:\Users\Nadia\Downloads\Presentationslager 90\Presentationslager\Presentationslager\obj\Debug\netcoreapp3.1\Presentationslager.genruntimeconfig.cache
