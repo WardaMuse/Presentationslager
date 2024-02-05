@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Datalager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entitetlager": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datalager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datalager.dll": {}
+        }
+      },
+      "Entitetlager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entitetlager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entitetlager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datalager/1.0.0": {
+      "type": "project",
+      "path": "../Datalager/Datalager.csproj",
+      "msbuildProject": "../Datalager/Datalager.csproj"
+    },
+    "Entitetlager/1.0.0": {
+      "type": "project",
+      "path": "../Entitetlager/Entitetlager.csproj",
+      "msbuildProject": "../Entitetlager/Entitetlager.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Datalager >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abdul\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\homework\\Presentationslager\\Affärslager\\Affärslager.csproj",
+      "projectName": "Affärslager",
+      "projectPath": "D:\\homework\\Presentationslager\\Affärslager\\Affärslager.csproj",
+      "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
+      "outputPath": "D:\\homework\\Presentationslager\\Affärslager\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\homework\\Presentationslager\\Datalager\\Datalager.csproj": {
+              "projectPath": "D:\\homework\\Presentationslager\\Datalager\\Datalager.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

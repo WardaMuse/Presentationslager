@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0OlIk1vr3eV/vHV+TzmC1kPE3cY9CFzZMXurN00F/g21gH7B/Wvb+NX/vczDASSpEhSwb1Fd0XpXKdw1MRlVw==",
+  "success": true,
+  "projectFilePath": "D:\\homework\\Presentationslager\\Affärslager\\Affärslager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
